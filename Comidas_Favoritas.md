@@ -8,4 +8,10 @@ Me llamo Brayan y mis comidas favoritas son las siguientes
 - Pastel maya
 - Caldillo de huevo
 
+Ademas, mis bebidas favoritas son: 
+
+- Juego de naranja
+- Malteada
+- Yogurt
+
 
