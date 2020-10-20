@@ -14,4 +14,20 @@ Ademas, mis bebidas favoritas son:
 - Malteada
 - Yogurt
 
+Darwin_Huchim
+
+Me llamo Darwin y mis comidas favoritas son las siguientes
+
+- Chiles rellenos
+- Carne asada.
+- Espaguetti verde
+- haburguesa
+- torta de jamon y queso
+
+Ademas, mis bebidas favoritas son: 
+
+- Juego de naranja
+- Chocolate con cafe
+- agua 
+
 
